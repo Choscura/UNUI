@@ -4,14 +4,15 @@
 """
 from math import sqrt
 
-class plant:
-    """
-    a data member to represent the plant
-    """
 
 class actor:
     """
     Things that have behavior.
+    """
+
+class plant:
+    """
+    a data member to represent the plant
     """
 
 class camera:
