@@ -1,5 +1,7 @@
 """
-	IUNU Test project.
+
+    UNUI
+    IUNU environment abstraction toolkit 
 
 """
 from math import sqrt
@@ -7,23 +9,49 @@ from math import sqrt
 
 class actor:
     """
-    Things that have behavior.
+    An "actor" in UNUI space is a noun that has <or can possibly have> 
+    behavior. A light is an actor, a camera is an actor, a plant is an actor.
     """
+    #Spatial positioning
+    actorx = (float)
+    actory = (float)
+    actorz = (float)
+    
+    #spacial orientation
+    transformx = (float)
+    transformy = (float)
+    tronsformz = (float)
+    
+    #constructor method
+    def __init__(self, x, y, z):
+        """
+        initialization for 'actor' class
+        """
+        self.actorx = x
+        self.actory = y
+        self.actorz = z
 
-class plant:
+    def getposition(self):
+        """
+        gets the world's assessment of where the origin point of this actor is.
+        returns the xyz coordinates as an array of floats""" 
+        return [self.x, self.y, self.z]
+
+    def setposition(self, x, y, z):
+        """
+        `
+        """
+
+class plant(actor):
     """
     a data member to represent the plant
     """
 
-class camera:
+class camera(actor):
     """     
     The camera class represents the physical cameras in the abstracted greenhouse, 
     for the purposes of calculating and controlling their behavior
     """
-	#Position of camera origin point in space
-    camerax=(float)
-    cameray=(float)
-    cameraz=(float)
 
     #init function to handle class construction
     def __init__(self, x, y, z):
