@@ -39,8 +39,11 @@ class actor:
 
     def setposition(self, x, y, z):
         """
-        `
+        Sets the position of the actor to equal the function parameters
         """
+        self.actorx = x
+        self.actory = y
+        self.actorz = z
 
 class plant(actor):
     """
@@ -87,9 +90,10 @@ def main():
     """
     Main function, for testing
     """
-    Derp = camera(1,2,3)
-    print(Derp.DistanceToPlant(4,5,6))
-    Derp.TakePicture()
+    
+    #Derp = camera(1,2,3)
+    #print(Derp.DistanceToPlant(4,5,6))
+    #Derp.TakePicture()
 
 main()
 
