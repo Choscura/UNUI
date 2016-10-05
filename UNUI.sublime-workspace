@@ -1,0 +1,573 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"de",
+				"description"
+			],
+			[
+				"Camera",
+				"cameraz"
+			],
+			[
+				"Vert",
+				"VerticalHypotenuse"
+			],
+			[
+				"Hor",
+				"HorizontalHypotenuse"
+			],
+			[
+				"vert",
+				"VerticalLeg"
+			],
+			[
+				"camer",
+				"camerax"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"work",
+				"worktime"
+			],
+			[
+				"print",
+				"printcalc"
+			],
+			[
+				"incom",
+				"incomecalculator"
+			],
+			[
+				"jo",
+				"jobtitle"
+			],
+			[
+				"job",
+				"jobname"
+			],
+			[
+				"__",
+				"__init__"
+			],
+			[
+				"inco",
+				"incomecalculator"
+			],
+			[
+				"taxs",
+				"taxes"
+			],
+			[
+				"tax",
+				"tax_percent"
+			],
+			[
+				"kid",
+				"kidcost"
+			],
+			[
+				"H",
+				"HerbalNationWage"
+			],
+			[
+				"Tax",
+				"tax_percent"
+			],
+			[
+				"wage",
+				"wage_amount"
+			],
+			[
+				"lower",
+				"lowersplitchar"
+			],
+			[
+				"_",
+				"_sorted_charset_"
+			],
+			[
+				"ch",
+				"Charset"
+			],
+			[
+				"cha",
+				"charcounter"
+			],
+			[
+				"Content",
+				"Content_List"
+			],
+			[
+				"prot",
+				"Proto_DB"
+			],
+			[
+				"co",
+				"Content_Byteprice"
+			],
+			[
+				"c",
+				"Content_Data"
+			],
+			[
+				"con",
+				"Content_Byteprice"
+			],
+			[
+				"cont",
+				"Content_Data"
+			],
+			[
+				"in",
+				"__Init__"
+			],
+			[
+				"Cont",
+				"Content_Name"
+			],
+			[
+				"data",
+				"data"
+			],
+			[
+				"conte",
+				"Content_Data"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "__init__.py",
+			"settings":
+			{
+				"buffer_size": 41,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "classes.py",
+			"settings":
+			{
+				"buffer_size": 2838,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 2296,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "UNUI.py",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "unuitests.py",
+			"settings":
+			{
+				"buffer_size": 91,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 339.0,
+		"selected_items":
+		[
+			[
+				"sspy",
+				"Set Syntax: Python"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"ssj",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"find",
+				"FindKeyConflicts: All Conflicts"
+			],
+			[
+				"key",
+				"FindKeyConflicts: All Conflicts"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"ssp",
+				"Set Syntax: Python"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Chouscura/Documents/oreilly/Python/python 1/lesson 1/budgeting.py",
+		"/C/Users/Chouscura/Documents/oreilly/Python/python 1/lesson 1/So, I'm about halfway through losing 160-ish pound",
+		"/C/Users/Chouscura/Desktop/IUNU/unuitests.py",
+		"/C/Users/Chouscura/Desktop/TheExpletiveProject/classes.py",
+		"/C/Users/Chouscura/Documents/Python Scratch/Ritalin.py",
+		"/C/Users/Chouscura/Desktop/IUNU/classes.py",
+		"/C/Users/Chouscura/Desktop/IUNU/IUNUTest.py",
+		"/C/Users/Chouscura/AppData/Roaming/Sublime Text 3/Packages/GoSublime/USAGE.md",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Users/Chouscura/Desktop/KoenigCNC/Kickstarter/3d printer kit mill kickstarter",
+		"/C/Users/Chouscura/Documents/omegle rape",
+		"/C/Users/Chouscura/Desktop/Annie/เหตุรถยนต์ตกลงมาจากลานจอดรถชั้น3ลงมาชั้น1 ห้างดังเชียงใหม่.html",
+		"/C/Users/Chouscura/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Windows/winsxs/amd64_microsoft-windows-w..nfrastructure-other_31bf3856ad364e35_6.1.7600.16385_none_6079f415110c0210/hosts",
+		"/C/Users/Chouscura/Desktop/New World/playerdata/d5466113-c800-4f62-87ce-037ba6d6402f.dat",
+		"/C/Users/Chouscura/Desktop/Daesh/Daesh engagement",
+		"/C/Users/Chouscura/Documents/Python Scratch/linguistics/habbitengineering.py",
+		"/C/Users/Chouscura/Desktop/TheExpletiveProject/README.md",
+		"/C/Users/Chouscura/Desktop/GitWork/Choscura/index.html",
+		"/C/Users/Chouscura/Desktop/TheExpletiveProject/GoCode/ExpletiveServer/main.go",
+		"/C/Users/Chouscura/Desktop/TheExpletiveProject/prototype.py",
+		"/C/Users/Chouscura/Desktop/TheExpletiveProject/heroku/python-getting-started/README.md",
+		"/C/Users/Chouscura/Desktop/TheExpletiveProject/bucket/fastprototype.py",
+		"/C/Users/Chouscura/Documents/exproj experiments/FTP/ftp_attempt.py",
+		"/C/Users/Chouscura/Documents/text/I'm Kendall.",
+		"/C/Users/Chouscura/Documents/text/Hi there.",
+		"/C/Users/Chouscura/Documents/Python Scratch/linguistics/languagescratch.py",
+		"/C/Users/Chouscura/Documents/text/Spyfighter game design doc",
+		"/C/Users/Chouscura/Documents/053945601 suandok kira",
+		"/C/Users/Chouscura/Desktop/BibleWorks 9/Crack/cwcg.nfo.html",
+		"/C/Users/Chouscura/AppData/Roaming/Sublime Text 2/Backup/20141215125814/GoSublime/README.md",
+		"/C/Users/Chouscura/AppData/Roaming/Sublime Text 3/Packages/GoSublime/CHANGELOG.md",
+		"/C/Users/Chouscura/Desktop/pictures/gun/Cho - 1 days.tits",
+		"/C/Users/Chouscura/AppData/Roaming/Sublime Text 3/Packages/User/Distraction Free.sublime-settings",
+		"/C/Users/Chouscura/Desktop/Brain/the future of elephants in Thailand",
+		"/C/Users/Chouscura/Desktop/TheExpletiveProject/derp.py",
+		"/C/Users/Chouscura/Desktop/TheExpletiveProject/Todo for expletive project",
+		"/C/Users/Chouscura/Desktop/Brain/This one time, I worked for an italian painter who",
+		"/C/Users/Chouscura/Desktop/TheExpletiveProject/bucket/notes",
+		"/C/Users/Chouscura/Documents/oreilly/Python/python 1/lesson 1/redditscrape.py",
+		"/C/Users/Chouscura/Desktop/Brain/Bookburning- book notes.",
+		"/C/Users/Chouscura/Desktop/TheExpletiveProject/Classes.py",
+		"/C/Users/Chouscura/Downloads/Splinter.Cell.Chaos.Theory/Splinter.Cell.Chaos.Theory.nfo",
+		"/C/Users/Chouscura/Desktop/TheExpletiveProject/_init_",
+		"/C/Users/Chouscura/Desktop/TheExpletiveProject/__init__.py",
+		"/C/Users/Chouscura/Documents/Calibre Library/Administrador/Microsoft Word - Fluent English.docx (59)/metadata.opf",
+		"/C/Users/Chouscura/Documents/Calibre Library/Unknown/THANKS (107)/THANKS - Unknown.md",
+		"/C/Users/Chouscura/Documents/oreilly/Python/python 1/lesson 2/greeting",
+		"/E/minnen.nfo",
+		"/C/Users/Chouscura/Downloads/GoSublime-master/GoSublime-master/README.md",
+		"/C/Users/Chouscura/Documents/Python Scratch/Scratching.py",
+		"/C/Users/Chouscura/Documents/oreilly/Python/python 1/lesson 1/one_statement",
+		"/C/Users/Chouscura/Downloads/Photoshop CS3/Instructions.nfo",
+		"/C/Users/Chouscura/AppData/Roaming/Dogecoin/wallet.dat"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"open",
+			"Chapter 3",
+			"Chapter 2",
+			"Charset",
+			"$100"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "__init__.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 41,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "classes.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2838,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2296,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "UNUI.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "unuitests.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 91,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.MarGo-output":
+	{
+		"height": 52.0
+	},
+	"output.exec":
+	{
+		"height": 378.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "UNUI.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

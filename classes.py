@@ -104,3 +104,4 @@ generated to populate that, which will deal with package tests.
 
 import unittest
 
+print("classes.py ran")
