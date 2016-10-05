@@ -11,3 +11,11 @@ initial docspec:
  	proper python project setup, tests, with gitbhub repo and commits that make sense.
 
 	 Asking questions is encouraged. Finding hidden requirements is half the battle of building software. Getting software working, then refactoring is the other. Show me how you think through a problem.
+
+
+GLOSSARY
+
+In order to facilitate greater ease of communication, this glossary will act as a standard list of terms used and their descriptions, in order to facilitate sensible local naming conventions.
+
+	HCI	Human-Computer Interaction.  A reference to the action of humans and computers 
+		exchanging data, without reference or dependence on the method of that.

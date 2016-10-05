@@ -87,7 +87,6 @@ def main():
     """
     Main function, for testing
     """
-    Actorspace = []
     derp  = (actor)
  
 main()
