@@ -56,6 +56,9 @@ class actor:
         return VerticalHypotenuse
     
     def __tostring__(self):
+        """
+        Returns the name as a string of utf-8 encoded text
+        """
         return self.name
     
     def __init__(self, x, y, z, name):
@@ -75,15 +78,15 @@ class actorspace:
     actorlist = []          # a list for the UID's of thte actors to be stored in
 
     def __init__(self, spacename):
-    """
-    constructor to initialize the actorspace
-    """
+        """
+        constructor to initialize the actorspace
+        """
         self.spacename = spacename
     
     def __tostring__(self):
-    """
-    actorspace tostring returns the name of the space as a string so that the humans actually doing this know which space is which
-    """
+        """
+        actorspace tostring returns the name of the space as a string so that the humans actually doing this know which space is which
+        """
         return spacename
 
 
@@ -114,9 +117,9 @@ class plant(actor):
     species = (str)
     
     def __tostring__(self):
-    """
-    actorspace tostring returns the name of the space as a string, for the humonkeys
-    """
+        """
+        actorspace tostring returns the name of the space as a string, for the humonkeys
+        """
         return species
    
  
@@ -124,14 +127,26 @@ class camera(actor):
     """     
     The camera class represents the physical cameras in the abstracted greenhouse, 
     """
+    #   data members the camera needs to be able to make meaningful decisions about behavior
+    #       Internal Camera Attributes <without external use>
+    #           position of origin point (by default camera mounting point, since that is the 
+    #           direct point of transform from which the camera's heading and position must necessarily be made.
+    xorigin = (float)
+    yorigin = (float)
+    zorigin = (float)
+            
+    
+    #       Networking Attributes
+    Camera_SSID = (str)     #   a string SSID assigned to the camera
+    
 
     def __init__(self, x, y, z):
         """
         camera constructors
         """
-        self.camerax = x
-        self.cameray = y
-        self.cameraz = z
+        self.xorigin = x
+        self.yorigin = y
+        self.zorigin = z
 
     def TakePicture(self):
         """
@@ -139,7 +154,7 @@ class camera(actor):
         """
 
 ##################################################################################################################################
-                                                CODE BELOW IS FOR DEVELOPMENT ONLY
+#                                           CODE BELOW IS FOR DEVELOPMENT ONLY
 ##################################################################################################################################
 
 def main():
